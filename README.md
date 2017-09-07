@@ -4,6 +4,8 @@
 
 Udacity - Front-End Web Developer Nanodegree project. In this project were given starter code, including HTML and CSS, to build the application. we'll write JavaScript code that lets the user to create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece!. were build a single-page web app that allows users to draw pixel art on a customizable canvas! Check out this example:
 
+![Pixel Art Maker](https://raw.githubusercontent.com/musaab-abdalla/frontend-nanodegree-pixel-art-maker/master/Screenshot.png)
+
 ## Getting Started
 
 ##### Live
